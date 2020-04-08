@@ -99,8 +99,8 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../img/portrait.jpg");
-  background-repeat: no-repeat;
+  background: url("../img/portrait_small.jpg");
+  background-repeat: round;
   border-radius: 50%;
   border: solid 3px #ffbb00; }
 
